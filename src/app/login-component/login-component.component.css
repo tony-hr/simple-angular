@@ -1,0 +1,26 @@
+.my-form{
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.mat-card {
+    box-shadow: none;
+}
+
+.main-div{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input.mat-input-element {
+    border: 1px solid #ddd;
+    padding: 10px 5px;
+    border-radius: 5px;
+}

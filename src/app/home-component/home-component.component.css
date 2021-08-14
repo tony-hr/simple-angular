@@ -1,0 +1,24 @@
+.spacer {
+    flex: 1 1 auto;
+}
+
+.header-home {
+    background-color: #fff;
+    color: #222;
+}
+
+.logo {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+.login-btn {
+    background-color: blue;
+    color: #fff;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 60px;
+}
